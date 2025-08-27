@@ -1,0 +1,9 @@
+{
+  "name": "simple-chat-server",
+  "version": "1.0.0",
+  "description": "Simple WebSocket chat server",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
